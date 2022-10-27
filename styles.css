@@ -8,3 +8,24 @@ red - #ee5253
 
 */
 
+* {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    background-color: #0fb9b1;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    width: 100%;
+}
+
+.header-button {
+   border: none;
+   padding: .5rem;
+   border-radius: .5rem;
+}
