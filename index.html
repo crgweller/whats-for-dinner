@@ -11,8 +11,41 @@
             <h1 class="header-title">What's for Dinner?</h1>
             <button class="header-button">ADD A RECIPE</button>
         </header>
-        <section class="Main>"
-            
+        <section class="main">
+        <form id="getMeal" class="form">
+                <h2 class="form-title">What are you looking for?</h2>
+                <div class="form-option">
+                    <input type="radio" id="side" name="meal" value="Side">
+                    <label for="side">"Side"</label>
+                </div>
+
+                <div class="form-option">
+                    <input type="radio" id="main" name="meal" value="Main Dish">
+                    <label for="side">"Main Dish"</label>
+                </div>
+
+                <div class="form-option">
+                    <input type="radio" id="dessert" name="meal" value="Dessert">
+                    <label for="side">"Dessert"</label> 
+                </div>
+
+                <div class="form-option">
+                    <input type="radio" id="entire" name="meal" value="Entire Meal">
+                    <label for="side">"Entire Meal"</label>
+                </div> 
+
+                  <button class="submit">LET'S COOK</button> 
+          </form> 
+                
+          <div class="menu">
+              <button class="clear">CLEAR</button>  
+     
+              <div class="meal-display">
+                  <img class="garbage-can" src="./assets/cookpot.svg"/>
+              </div>
+            </div>
+        </section>
+
   </body>
   <script type="text/javascript" src="main.js"></script>
 </html>
