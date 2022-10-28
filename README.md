@@ -38,6 +38,8 @@ ______________________________________________________
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
 
+![Loom_Message_-_27_October_2022_AdobeExpress (1)](https://user-images.githubusercontent.com/113863021/198585721-62da7752-29e3-45de-9e2f-d5f266dbbeed.gif)
+
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
