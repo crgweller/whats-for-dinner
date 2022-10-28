@@ -3,7 +3,7 @@ var main = document.querySelector('#main');
 var dessert = document.querySelector('#dessert');
 var entire = document.querySelector('#entire');
 
-var sideDishes = ["broccoli", "roasted potatoes" "soup"]
+var sideDishes = ["broccoli", "roasted potatoes", "soup"]
 var mainDishes = ["steak", "roasted squirrel", "shakshuka"]
 var dessert = ["ice cream", "gelato", "sorbet"]
 
